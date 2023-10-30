@@ -10,6 +10,9 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import "react-toastify/dist/ReactToastify.css";
 import "../styles/nprogress.css";
 
+
+
+
 import { appWithI18Next } from "ni18n";
 import { ni18nConfig } from "ni18n.config.ts";
 import "../styles/loader.css";
